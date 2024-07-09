@@ -22,7 +22,7 @@ const Navbar = ({ setShowLogin }) => {
       </Link>
       <ul className="navbar-menu">
         <Link
-          to="/foodorder"
+          to="/foodorder-hungerhub"
           onClick={() => setMenu("home")}
           className={menu === "home" ? "active" : ""}
         >
