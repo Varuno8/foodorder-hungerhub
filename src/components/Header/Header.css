@@ -2,7 +2,9 @@
   height: 100vh;
   background: url("https://github.com/adeshdatir99ad/foodorder/blob/main/public/header_img.jpg?raw=true");
   background-size: cover;
+  position: relative;
 }
+
 .header-contents {
   position: absolute;
   display: flex;
@@ -13,16 +15,23 @@
   bottom: 9%;
   left: 5vw;
   animation: fadeIn 3s;
+  background: rgba(0, 0, 0, 0.5); /* Added background for readability */
+  padding: 20px;
+  border-radius: 10px;
 }
+
 .header-contents h2 {
   font-weight: 500;
   color: white;
   font-size: max(4.5vw, 22px);
 }
+
 .header-contents p {
   color: white;
   font-size: 1.2vw;
+  margin: 10px 0; /* Added margin for spacing */
 }
+
 .header-contents button {
   border: none;
   color: #747474;
@@ -31,7 +40,9 @@
   background-color: white;
   font-size: max(1vw, 13px);
   border-radius: 50px;
+  cursor: pointer;
 }
+
 .header-contents button:hover {
   background-color: #fff4f2;
   transform: scale(1.05);
@@ -63,5 +74,15 @@
   .header-contents button {
     padding: 1.5vw 2vw;
     font-size: max(1vw, 12px);
+  }
+}
+
+/* Keyframes for fadeIn animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
   }
 }
