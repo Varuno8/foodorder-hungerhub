@@ -30,7 +30,7 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>+91-7011793823</li>
-                <li><a href="#">hotelJanosa.com</a></li>
+                <li><a href="#">hungerhub.com</a></li>
             </ul>
         </div>
       </div>
