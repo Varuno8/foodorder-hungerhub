@@ -17,7 +17,9 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .navbar .logo {
-  width: 190px;
+  width: 140px;
+  height: 98px;
+ 
 }
 .navbar-menu {
   display: flex;
@@ -76,6 +78,8 @@
 @media (max-width: 1050px) {
   .navbar .logo {
     width: 140px;
+    height: 98px;
+  
   }
   .navbar-menu {
     gap: 10px;
