@@ -1,11 +1,45 @@
-# Food-Ordering-WebApp
+# Food-Ordering-WebApp (HUNGER-HUB)
+
 Effortless food ordering! This React app (Vite) lets you browse menus, search items, manage a cart, and checkout. Responsive design ensures a seamless experience on any device.
 
-![1](https://github.com/adeshdatir99ad/foodorder/assets/63045592/ed1c6648-c2de-4231-b727-8ee4d70646e3)
-![3](https://github.com/adeshdatir99ad/foodorder/assets/63045592/7b3f180b-0df0-4ed0-af47-8b74512b15dc)
-![4](https://github.com/adeshdatir99ad/foodorder/assets/63045592/f82973eb-06dc-48d5-9231-7c8ac583d577)
-![8](https://github.com/adeshdatir99ad/foodorder/assets/63045592/f2b0267a-c9ad-4b0f-a8d0-ec393b357a31)
-![5](https://github.com/adeshdatir99ad/foodorder/assets/63045592/7f061063-3371-458b-8bd5-730003b20ac9)
+## Features
 
+- Browse and explore menus
+- Search for specific items
+- Add items to the cart
+- Manage your cart and quantities
+- User authentication (login and sign up)
+- Checkout and order confirmation
+- Responsive design for both desktop and mobile
 
+## Screenshots
 
+### Add to Cart
+![Add to Cart](https://github.com/Varuno8/foodorder-hungerhub/blob/main/src/assets/images/addtocart.png)
+
+### Cart View
+![Cart](https://github.com/Varuno8/foodorder-hungerhub/blob/main/src/assets/images/cart.png)
+
+### User Login
+![Login](https://github.com/Varuno8/foodorder-hungerhub/blob/main/src/assets/images/loginuser.png)
+
+### Menu Exploration
+![Menu Explore](https://github.com/Varuno8/foodorder-hungerhub/blob/main/src/assets/images/menuexplore.png)
+
+### Order Now
+![Order Now](https://github.com/Varuno8/foodorder-hungerhub/blob/main/src/assets/images/ordernow.png)
+
+### Search Items
+![Search Item](https://github.com/Varuno8/foodorder-hungerhub/blob/main/src/assets/images/searchitem.png)
+
+### Mobile App View
+![Mobile App](https://github.com/Varuno8/foodorder-hungerhub/blob/main/src/assets/images/mobileapp.png)
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Varuno8/foodorder-hungerhub.git
+   cd foodorder-hungerhub
